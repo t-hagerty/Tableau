@@ -1,0 +1,6 @@
+﻿<Window x:Class="tableau.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel x:Name="WindowPanel" HorizontalAlignment="Left" Height="316" VerticalAlignment="Top" Width="515"/>
+</Window>

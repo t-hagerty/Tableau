@@ -27,6 +27,8 @@ namespace tableau
             InitializeComponent();
             MainMenu mm = new MainMenu();
             WindowPanel.Children.Add(mm);
+            SimplexTableau atableau = new SimplexTableau(2, 2);
+            Console.Write(atableau.toString());
         }
     }
 }

@@ -56,7 +56,9 @@
     <Compile Include="MainMenu.xaml.cs">
       <DependentUpon>MainMenu.xaml</DependentUpon>
     </Compile>
+    <Compile Include="SimplexTableau.cs" />
     <Compile Include="Tableau.cs" />
+    <Compile Include="TuckerTableau.cs" />
     <Page Include="MainMenu.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
